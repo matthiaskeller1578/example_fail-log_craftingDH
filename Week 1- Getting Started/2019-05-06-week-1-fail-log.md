@@ -12,9 +12,9 @@ My [second annotation] (insert link) refers to my stuggle with understanding wha
 Through seeing what the cousre is expcting of me, I have learned that I will need to allocate my time wisely to complete thses assignemntes and moduels. Most importantly, leaving enough time for me to leave and come back to a challenge that I face. 
 
 ## Third Annotation
-My [third annotation](insert link) refers to writing my fail logs. While reading about the fail logs, I was unsure of what they were. Once I saw the video on writing the fail log, I had dificulty (right now) figuring out how to reconfigure the text and add links and headings.
+My [third annotation](https://hyp.is/TYENanLKEemLYPMCVFiYfQ/workbook.craftingdigitalhistory.ca/introduction/crafting-digital-history/) refers to writing my fail logs. While reading about the fail logs, I was unsure of what they were. Once I saw the video on writing the fail log, I had dificulty (right now) figuring out how to reconfigure the text and add links and headings.
 
-TI am currently taking this time to "mess around" so to speak with figuring out the configuration and how to reshape my text for later on.
+I am currently taking this time to "mess around" so to speak with figuring out the configuration and how to reshape my text for later on.
 
 ## Comments/Concerns
 
