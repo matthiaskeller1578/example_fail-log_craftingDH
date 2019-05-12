@@ -18,6 +18,8 @@ I am currently taking this time to "mess around" so to speak with figuring out t
 
 ## Comments/Concerns
 
+One thing that I found difficult throughout this session, is figuring out all of what is needed to be completed. THankfully I was able to contact Dr. Graham on Slack to help guid me to ensure that I am on the right track. I found it to be challenging that there are no "set objectives" in the course which can be used as a check list to complete assignments, however, at the same time it is good as it allows us to explore online, and develop new skills and capabilities. One thing that I learned from this session is how all the programs we downlaoded are linked. I found it unclear at first on why we needed particular software, yet while utilizing the programs I soon realized how they are all interconnected and how they might serve to benefit me later. 
+
 I hope to develop new skills in regard to programing and software as I will be starting my masters in September for public innovation and eGovernance in Europe, and I hope to have a basic background in programing before starting. 
 
 I am concerned about having enough time to complete all of the modules as I have two other courses, and this course seems challenging, but I belive if I work hard and focus I can achieve it!
