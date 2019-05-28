@@ -9,4 +9,6 @@ My first fail that I encountered this week pertains to the tutorial by Ian Milli
 My second fail came about when I was attempting to put my TEI exercise on firefox. I was not sure why it was not showing online, and started removing sentences to see where I went wrong. I soon figured out that what I did wrong was I put </P> at the beginning of the paragrph instead of <P>. I then had to go through and fix it all.
   
   ### Fail 3
+  My third fail is related to the using of API's in exercise 4. I really stuggled with this component of the exercise. I found it very diffuclt to follow everything on differnt domains. It got very confusing and I felt out of control. I was defently fully defeted by this exercise. I will be seeking guidance from Dr Graham during his office hours as I want to learn where I went wrong and how I can figure this out better. 
   
+  Overall I enjoyed this week besides for exercise 4. I hope to learn more about digitalizing documents, and putting codes on particular documents which contain details. I found this very interesting and I am glad I learned it. 
