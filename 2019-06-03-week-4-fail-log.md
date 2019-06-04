@@ -1,3 +1,4 @@
+## Week Four Fail Log
 This week has been a bit hard, I will admit. Wrangling Data is no easy thing to do. At times I found it to be more and more challenging. Taking a break throughout has made it easier when comming back to the exercise and looking it over to see where and when I might have messed up. Overall, I feel confident whith what I have learned and accomplished this week. Although this week was challenging, I found that I had less fails and stuggles this week than what I normally encounter. I persume that this might be due to the constant breaks I took throughout the week which allowed me to always attempt everything with an open mind!
 
 
