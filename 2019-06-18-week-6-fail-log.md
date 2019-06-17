@@ -10,7 +10,7 @@ I also wanted to italicize the title of the sources, and I was not sure how this
 
 Another thing I wanted to do to improve the website, was to change the picture so that there was a diagram which shows how heavy water is used, adn produced. For this I had to first upload the picture file to the project on github, and then I was able to grab the location of the picture. Once I had the location I could upload the pictures location to the BC site, and link it to the presnetation. 
 
-One of the last things I did to the trail, BC page was to change the tilte size from h4 to h3. The reason why I did this, was because all of the subheadings were the same size as the title. I felt like this did not look good, so what I did was make the sub-headings smaller.
+One of the last things I did to the trail, BC page was to change the tilte size from h3 to h4. The reason why I did this, was because all of the subheadings were the same size as the title. I felt like this did not look good, so what I did was make the sub-headings smaller.
 
 #### Montreal Laboratory
 The montreal page had a lot of good information on it, and was properly linked to the rest of the website, which made it easier to work on in comparision to the trail, BC page. What I did to improve this page was re link the references to allign them with the BC references.  The other thing I did was re-name the subheadings to make all of the pages consits of the same information, and to answer the same questions. I also added a bit of extra information which I found did not make grammatical sense. As well I re-sized the headings from h3 to h4. 
