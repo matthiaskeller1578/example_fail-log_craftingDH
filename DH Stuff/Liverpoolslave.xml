@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>118</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Indian planters may have on the liberality of the nation.</p>
+				<p>The present publication, it seems right to mention, has originated with an association at <placeName key="Liverpool, United Kingdom" ref="https://tools.wmflabs.org/geohack/geohack.php?params=53_24%27__N_2_59%27__W"> Liverpool </placeName>, formed for the express purpose of employing all lawful and prudent means for mitigating and finally abolishing the state of slavery throughout the British dominions. Similar association are already formed in the metropolis and in other parts of the <placeName key="United Kingdom" ref="https://en.wikipedia.org/wiki/United_Kingdom"> United Kingdom </placeName>. But it became <placeName key="Liverpool, United Kingdom" ref="https://tools.wmflabs.org/geohack/geohack.php?params=53_24%27__N_2_59%27__W"> Liverpool </placeName>, long the deepest in the guilt of the Slave-trade, to come forward the first to protest against the perpetuation of the original injustice of that criminal traffic, in the persons of the descendants of its earlier victims. <interp key="Liverpool was the major hub for Slave-trade in the United Kingdom, the majority of slaves heading towards America stopped in Liverpool, or the ship was constructed there." n="International Slavery Museum" cert="high" ref="http://www.liverpoolmuseums.org.uk/ism/srd/liverpool.aspx"> Such associations, we trust, will be multiplied in every corner of the relm, and will necer intermit their united and strenuous efforts, until by exposition, petition, remonstrance, and every legal method of intervention, </interp> they wipe out this foul stain from the character of their country, and deliver themselves from all participation in a system which, as has now been demonstrated, involves the violation of every acknow-ledged principle of the religion of <persName key="Christ, Jesus" from="4BC" to="33AD" role="Prophet" ref="https://www.biblica.com/bible/"> Christ </persName>. </p>
+				<p>THE END</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
