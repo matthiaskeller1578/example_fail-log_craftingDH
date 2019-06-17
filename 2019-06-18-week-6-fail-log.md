@@ -1,6 +1,6 @@
 ### Week 6 Fail Log
 This week I am finishing up my digital history course, by completing my final capstone project!
-I am working on a combined project with Maggie Sherwin and Ruzbeh Irani where we are fixing the atomic history project that Sebastian Mol made. 
+I am working on a combined project with Maggie Sherwin and Ruzbeh Irani where we are fixing the atomic history project that Sebastian Mol made. For this Assignment I was responsible for Quebec, and BC locations, and the chalk river. Maggie was responisbile for the Northwest Territories, and Ruzbeh looked after the remaining two Ontario locations.  
 #### Trail, BC
 One of the first things that I stuggled with, was figuring out why the Trail, BC file was not linking with the rest of the assignment. In order to fix this I went through the files that Mol created, and I found that there was a command lacking which allows for the BC file to be linked. Once I found the name and location of the BC trail file, I was able to link it with the rest of the assignment. 
 
@@ -17,4 +17,4 @@ The montreal page had a lot of good information on it, and was properly linked t
 
 
 #### Chalk Rivers
-
+For the chalk river page, I found all of the information to be relevant. What I did do was to allign the page so that it had the same subheadings, and answered the same questions. I also re-did the size of these subheadings. As for the references I re-did them, making them italicized, and changing where the link is. 
