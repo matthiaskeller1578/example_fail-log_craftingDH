@@ -1,5 +1,5 @@
 ### Week 6 Fail Log
-This week I am finishing up my digital history course, by completing my [final capstone project](https://github.com/matthiaskeller1578/HIST3814o-Blog-Matthias/blob/master/Week-6-Blog.md)!
+This week I am finishing up my digital history course, by completing my [final capstone project](https://maggiesherwin.github.io/daea/index.html)!
 I am working on a combined project with Maggie Sherwin and Ruzbeh Irani where we are fixing the atomic history project that Sebastian Mol made. For this Assignment I was responsible for Quebec, and BC locations, and the chalk river. Maggie was responisbile for the Northwest Territories, and Ruzbeh looked after the remaining two Ontario locations.  
 #### Trail, BC
 One of the first things that I stuggled with, was figuring out why the [Trail, BC file](https://maggiesherwin.github.io/daea/sites/cominco.html) was not linking with the rest of the assignment. In order to fix this I went through the files that Mol created, and I found that there was a command lacking which allows for the BC file to be linked. Once I found the name and location of the BC trail file, I was able to link it with the rest of the assignment. 
